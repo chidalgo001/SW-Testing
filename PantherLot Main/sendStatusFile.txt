@@ -1,0 +1,9 @@
+4   Parking #312  Type:Student     Floor:3  Direction:North Status:Free  Connection:Off
+5   Parking #315  Type:Student     Floor:5  Direction:South Status:Free  Connection:Off
+9   Parking #418  Type:Student     Floor:4  Direction:West  Status:Free  Connection:Off
+6   Parking #120  Type:Handicapped Floor:1  Direction:West  Status:Free  Connection:Off
+7   Parking #139  Type:Guest       Floor:1  Direction:South Status:Free  Connection:Off
+1   Parking #101  Type:Faculty     Floor:1  Direction:South Status:Free  Connection:Off
+2   Parking #102  Type:Faculty     Floor:1  Direction:South Status:Free  Connection:Off
+3   Parking #116  Type:Faculty     Floor:1  Direction:East  Status:Free  Connection:Off
+8   Parking #226  Type:Faculty     Floor:2  Direction:East  Status:Free  Connection:Off
